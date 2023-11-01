@@ -1,0 +1,12 @@
+body {
+    width: 600px;
+    margin: 0 auto;
+}
+
+section {
+    text-align: center;
+    color: rgb(0, 98, 255);
+    border: 1px solid red;
+    padding: 50px 50px;
+    margin-top: 100px;
+}
